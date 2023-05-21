@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm **Ifeanyi Dike**, full stack software engineer.
-
-Software engineer with over 8 years of experience working on complex software engineering projects. I'm very passionate about solving problems through programming and looking forward to work on new and exciting projects.
+I'm **Ifeanyi Dike**, full stack software engineer with over 8 years of experience working on complex software engineering projects. I'm very passionate about solving problems through programming and looking forward to work on new and exciting projects.
 
 I'm currently working as a senior software engineer at Howdy Learning; at Howdy, I'm responsible for developing, maintaining and improving the web socket infrastructure which controls the user presence, notification and chat functionalities. I'm also in charge of integrating Howdy with third party platforms through pluggable widgets as well as single sign on functionality. In addition, I assist in maintaining the WebRTC infrastructure, Thinkific, Twilio and Zoom integrations, reviewing and fixing bugs where necessary.
 
