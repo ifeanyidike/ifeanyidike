@@ -1,13 +1,26 @@
 ### Hi there 👋
-I'm **Ifeanyi Dike**, full stack software engineer with over 8 years of experience working on complex software engineering projects. I'm very passionate about solving problems through programming and looking forward to work on new and exciting projects.
+Seasoned Full Stack Engineer with 8+ years of experience in frontend, backend, product design, development, and machine learning. Proven track record of building scalable platforms and AI solutions, demonstrating ownership and autonomy.
 
-I'm currently working as a senior software engineer at Howdy Learning; at Howdy, I'm responsible for developing, maintaining and improving the web socket infrastructure which controls the user presence, notification and chat functionalities. I'm also in charge of integrating Howdy with third party platforms through pluggable widgets as well as single sign on functionality. In addition, I assist in maintaining the WebRTC infrastructure, Thinkific, Twilio and Zoom integrations, reviewing and fixing bugs where necessary.
+🚀 Highlights:
+- Improved efficiency by over 50% in multiple projects
+- Reduced CPU usage by 98% through infrastructure re-engineering
+- Led implementation of AI-driven content generation, cutting production time by 60%
 
-While employed in this role, I've helped to drastically reduce the CPU loads on the Howdy app which periodically crashed the app. This was caused by high public outbound from the socket.io connections, leading to a poor user experience. In addition, by leading and building a pluggable widget for Howdy, I helped Howdy to land many high paying customers who mainly use the Howdy widget on third party apps to interact with their students and communities. 
+💻 Tech Stack:
+JavaScript | TypeScript | HTML/CSS/SCSS | Python | React.js | React Native | Node.js |  Golang | Next.js | AWS | MongoDB | PostgreSQL |  MySQL | GraphQL | Docker | Kubernetes 
 
-In my spare time, I love engaging on personal projects and also collaborating with other developers on interesting projects. I also love playing chess. 
+🏆 Key Achievements:
+- Was part of a team that built the creator studio platform for video/story production. This platform reduced video production time by 50%.
+- Led the development of a scalable video conferencing/chat application handling 10,000+ concurrent connections.
+- Integrated OpenAI's GPT-4 for automated content generation, boosting creative output.
+- Developed a customer-facing multi-tenant web application for the automotive industry.
 
-My specialities include: Javascript, Typescript, Node.js, React.js, React Native, Go, Rust, Python, Cloud Services (AWS), HTML/CSS.
+🎓 Education:
+Bachelor of Technology (Tech) in Applied Mathematics (First Class Honours) - Federal University of Technology Akure, Nigeria.
+
+Always on the lookout for the next big tech challenge. Committed to continuous learning and applying emerging technologies to solve real-world problems.
+
+I thrive on turning "what ifs" into "here's hows," whether I'm coding solo or collaborating with a team. If you've got a tough problem that needs solving or an idea that needs building, let's talk.
 
 [![Website Badge](https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=Website&logoColor=white&link=https://ifeanyidesmonddike.web.app/)](https://ifeanyidesmonddike.web.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifeanyidesmonddike/)](https://www.linkedin.com/in/ifeanyidesmonddike/)
