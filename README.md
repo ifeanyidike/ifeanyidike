@@ -5,14 +5,16 @@ Seasoned Full Stack Engineer with 8+ years of experience in frontend, backend, p
 - Improved efficiency by over 50% in multiple projects
 - Reduced CPU usage by 98% through infrastructure re-engineering
 - Led implementation of AI-driven content generation, cutting production time by 60%
+- Implemented end-to-end ML pipeline. Built scalable system with open source (together with Open AI frontier model) LLM employing RAG methodology and finetuning.
+- Demonstrated expertise in the use of LLM models including OpenAI Whisper, Meta LLAMA, Qwen 2, Claude Sonnet, building scalable solutions with Agentic AI.
 
 💻 Tech Stack:
-JavaScript | TypeScript | HTML/CSS/SCSS | Python | React.js | React Native | Node.js |  Golang | Next.js | AWS | MongoDB | PostgreSQL |  MySQL | GraphQL | Docker | Kubernetes 
+JavaScript | TypeScript | Python | React.js | React Native | Node.js |  Golang | Next.js | AWS | MongoDB | PostgreSQL |  MySQL | GraphQL | Docker | Kubernetes | ML | LLMs
 
 🏆 Key Achievements:
 - Was part of a team that built the creator studio platform for video/story production. This platform reduced video production time by 50%.
 - Led the development of a scalable video conferencing/chat application handling 10,000+ concurrent connections.
-- Integrated OpenAI's GPT-4 for automated content generation, boosting creative output.
+- Integrated open source and frontier models (expertise in the use of Hugging face transformers and pretrained models) for automated content generation, boosting creative output.
 - Developed a customer-facing multi-tenant web application for the automotive industry.
 
 🎓 Education:
