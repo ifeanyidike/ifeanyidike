@@ -5,7 +5,7 @@
   I work on voice AI systems in production and do research on the gaps that production exposes — mainly around evaluation methodology for interactive speech agents and robustness to real-world disfluency.
 
   ### Research interests
-  - Full-duplex spoken dialogue and turn-taking
+  - Temporal sequence modeling (speech, video, time series)
   - Multimodal AI (speech, video, language)
   - Temporal sequence modeling
   - Numerical methods and PDEs
