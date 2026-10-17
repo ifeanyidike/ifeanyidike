@@ -1,40 +1,70 @@
 ## Hi, I'm Ifeanyi Dike
 
-AI engineer and applied mathematician based in Port Harcourt, Nigeria.
+I'm a senior software engineer and applied mathematician based in
+Port Harcourt, Nigeria, with 8+ years of software engineering experience.
 
-I work on voice AI systems in production and do research on the gaps
-that production exposes — mainly around evaluation methodology for
-interactive speech agents and robustness to real-world conditions.
+I build production voice AI, backend systems and real-time applications.
+I also research how to evaluate interactive speech agents, particularly
+when people interrupt, speak at the same time, or pause unexpectedly.
 
-### Research interests
-- Evaluation methodology for interactive AI systems
-- Temporal sequence modeling (speech, video, time series)
-- Multimodal AI (speech, video, language)
-- Numerical methods and PDEs
-- Financial mathematics
+### Production engineering
 
-### Recent research
-- **ATR: Acoustic Turn-over Rate** — proposed a VAD-based replacement
-  for the ASR-dependent TOR metric in Full-Duplex-Bench. Two ASR backends
-  disagree by up to 23.5 pp on the same audio; ATR brings three backends
-  to within 7.6 pp. Single author.
-  → [paper](https://doi.org/10.5281/zenodo.20548903) · [code](https://github.com/ifeanyidike/atr-metric)
+At DataStrut AI, I'm a founding AI engineer working across telephony,
+streaming speech, LLM orchestration and post-call processing.
 
-- **Full-Duplex-Bench v1.5 reproduction** — evaluated overlap handling
-  across four scenarios. Gemini correctly responds to user interruptions
-  72% of the time and shows systematic prosodic adaptation after overlap events.
-  → [paper](https://doi.org/10.5281/zenodo.20354457) · [code](https://github.com/ifeanyidike/full-duplex-bench-repro)
+My work includes:
+- Migrating a production voice platform from Vapi to self-hosted
+  Pipecat on Fly.io.
+- Building call admission and machine reservations, with capacity
+  kept available for incoming calls and safe draining before suspension.
+- Separating call scheduling from report processing, with background
+  workers and protection against duplicate calls.
+- Building reporting workflows that combine input from multiple callers.
 
-- **Full-Duplex-Bench v1.0 reproduction** — reproduced Lin et al. (2025)
-  for Gemini 3.1 Flash Live on Apple Silicon and ran a systematic analysis
-  of ASR backend sensitivity on turn-taking metrics. TOR varies by up to
-  62× across backends on identical audio.
-  → [paper](https://doi.org/10.5281/zenodo.20305268) · [code](https://github.com/ifeanyidike/full-duplex-bench-repro)
+Other projects include:
+- [Cenphi](https://github.com/ifeanyidike/cenphi): asynchronous video
+  processing, story composition and live progress updates.
+- [Major Dairy AI](https://github.com/ifeanyidike/majordiaryai):
+  mobile and backend workflows for dairy-farm operations.
+
+### Research
+
+**ATR: Acoustic Turn-over Rate**
+
+A sole-author research preprint proposing a VAD-based alternative to
+the ASR-dependent TOR metric used in Full-Duplex-Bench. The work
+examines how transcription choices affect overlap-handling measurements.
+
+[Preprint](https://doi.org/10.5281/zenodo.20548903) ·
+[Code](https://github.com/ifeanyidike/atr-metric)
+
+**Full-Duplex-Bench reproduction and extensions**
+
+Experiments on Apple Silicon examining ASR backend sensitivity,
+overlap handling and prosodic changes in Gemini voice-agent responses.
+
+[ASR sensitivity preprint](https://doi.org/10.5281/zenodo.20305268) ·
+[Overlap and prosody preprint](https://doi.org/10.5281/zenodo.20354457) ·
+[Code](https://github.com/ifeanyidike/full-duplex-bench-repro)
+
+### Main tools
+
+Python · TypeScript · Go · React · FastAPI · PostgreSQL · Redis
+Pipecat · Twilio · WebSockets · WebRTC · Docker · Fly.io
 
 ### Background
-- Founding AI Engineer, Datastrut AI
-- MSc Financial Engineering (in progress), WorldQuant University
-- First Class Honours, Applied Mathematics, FUTA
-- 4 IEEE-indexed publications (2018)
 
-📧 ifeanyi@ifeanyidike.com · 🌐 ifeanyidike.com
+- Founding AI Engineer, DataStrut AI
+- MSc Financial Engineering, WorldQuant University — in progress
+- B.Tech Applied Mathematics, First Class Honours, FUTA
+- National university mathematics competition gold medallist
+- Four co-authored IEEE conference papers
+
+### Writing and contact
+
+I write about production failures, engineering decisions and research
+at [ifeanyidike.com](https://ifeanyidike.com).
+
+[Blog](https://ifeanyidike.com/blog/) ·
+[CV](https://ifeanyidike.com/professional_cv/) ·
+[Email](mailto:ifeanyi@ifeanyidike.com)
